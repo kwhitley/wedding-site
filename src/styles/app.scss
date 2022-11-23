@@ -7,7 +7,7 @@
   --transition-duration: 0.1s;
   --border-radius: 1rem;
   --border-thickness: 2px;
-  --accent-color: rgb(255, 0, 200);
+  --accent-color: var(--foreground-color);
   --page-inset: 2rem;
 
   --link-color: var(--blue);
