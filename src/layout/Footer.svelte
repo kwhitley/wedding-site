@@ -13,23 +13,9 @@
 <!-- MARKUP -->
 <footer class:sticky>
   <section class="split" class:constrained class:centered>
-    <div class="social">
-      <a href="https://twitter.com/kevinrwhitley">
-        <Twitter />
-      </a>
-
-      <a href="https://discord.gg/aTunhByeNY">
-        <Discord />
-      </a>
-
-      <a href="https://github.com/kwhitley">
-        <GitHub />
-      </a>
-    </div>
-
     <div class="copywrite">
       <slot>
-        &copy; {year} Itty Industries, Inc. All rights reserved.
+        &copy; {year} Aimee & Kevin WHITLEY, muahahaha.
       </slot>
     </div>
   </section>

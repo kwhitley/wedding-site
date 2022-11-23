@@ -13,11 +13,11 @@
   --page-inset: 2rem;
 
   --link-color: var(--blue);
-  --brand-color: var(--accent-color);
+  --brand-color: var(--foreground-color);
   --brand-size: 2.2em;
   --version-offset: 0rem;
   --header-color: var(--background-color);
-  --header-color: rgba(240,240,240,0.8);
+  // --header-color: rgba(240,240,240,0.8);
 
   --footer-color: var(--background-color);
   --page-gutter: 2rem;
@@ -73,6 +73,10 @@
   }
 }
 
+@font-face {
+  font-family: Fancy;
+  src: url('./mrs-saint-delafield.ttf') format('truetype'); /* Safari, Android, iOS */
+}
 
 * {
   margin: 0;
@@ -185,6 +189,7 @@ hr {
 }
 
 h1, h2, h3 {
+  font-family: Fancy;
   font-weight: lighter;
   line-height: 1em;
   letter-spacing: -0.02em;

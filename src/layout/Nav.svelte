@@ -43,7 +43,7 @@
     display: flex;
     justify-content: center;
     backdrop-filter: blur(0.2em);
-    border-bottom: 1px solid var(--background-50);
+    border-bottom: 1px solid var(--foreground-50);
   }
 
   section {
