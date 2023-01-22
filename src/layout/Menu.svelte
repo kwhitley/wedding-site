@@ -33,14 +33,18 @@
     column-gap: 1.2em;
     row-gap: 0.8em;
     align-items: center;
-    transition: all 0.2s ease-in-out;
     flex-flow: row wrap;
     justify-content: flex-end;
-
 
     &.horizontal {
       // flex-flow: row wrap;
       row-gap: 0.8em;
+    }
+
+    @media screen and (max-width: 500px) {
+      flex-flow: column;
+      align-items: flex-end;
+      padding: 1rem 0;
     }
   }
 
