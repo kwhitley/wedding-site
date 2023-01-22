@@ -17,7 +17,6 @@
 
 <svelte:head>
   <link rel="icon" type="image/svg" href="/favicon.png">
-  <link rel="preconnect" href="https://api.itty.cards" crossorigin>
   <title>{pageTitle()}</title>
   <meta name="description" content="Super-secret, secret project that shall remain secret until it's no longer a secret." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -26,10 +25,10 @@
 
 <main>
   <Nav version horizontal constrained>
-    <a href="/about" use:navlink>About</a>
-    <!-- <a href="/create" use:navlink>Create</a>
-    <a href="/advanced" use:navlink>Editor</a> -->
-    <!-- <a href="/about" use:navlink>What is This?</a> -->
+    <a href="/" use:navlink={{ exact: true }}>Home</a>
+    <a href="/event-details" use:navlink>Event Details</a>
+    <a href="/travel-and-accomodations" use:navlink>Travel &amp; Accomodations</a>
+    <a href="/things-to-do" use:navlink>Things to Do</a>
   </Nav>
 
   <section class="page-container" class:constrained>
@@ -68,5 +67,9 @@
       flex: 1;
       max-width: var(--max-page-width);
     }
+  }
+
+  .page {
+    padding: 1rem 0 3rem;
   }
 </style>

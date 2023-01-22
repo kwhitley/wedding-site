@@ -1,6 +1,6 @@
 {
   "name": "wedding-site",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "scripts": {
     "dev": "vite dev",
@@ -37,6 +37,7 @@
   "type": "module",
   "dependencies": {
     "supergeneric": "^2.1.0",
-    "svelte-navlink-action": "^0.1.5"
+    "svelte-navlink-action": "^0.1.5",
+    "svelte-parallax": "^0.6.0"
   }
 }

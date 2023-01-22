@@ -1114,6 +1114,11 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.7.tgz#609f39207cb614b89d0765b477cb2d437fbf9787"
   integrity sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==
 
+focus-options-polyfill@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/focus-options-polyfill/-/focus-options-polyfill-1.6.0.tgz#12ef3081dae9801d32dfcffd7b69259ca8f57198"
+  integrity sha512-uyrAmLZrPnUItQY5wTdg31TO9GGZRGsh/jmohUg9oLmLi/sw5y7LlTV/mwyd6rvbxIOGwmRiv6LcTS8w7Bk9NQ==
+
 formdata-polyfill@^4.0.10:
   version "4.0.10"
   resolved "https://registry.yarnpkg.com/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz#24807c31c9d402e002ab3d8c720144ceb8848423"
@@ -2045,6 +2050,13 @@ svelte-navlink-action@^0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/svelte-navlink-action/-/svelte-navlink-action-0.1.5.tgz#eea3719e380503d0516e52e319d9705b19fc070e"
   integrity sha512-154hP2a54r/slMvyBYv8sEW7DfWA1GqmTKE7Lh2HGWiWa+TjWIUifIHyGGuH1KGrLXKPI21fvMPAyzhipQ3xiA==
+
+svelte-parallax@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/svelte-parallax/-/svelte-parallax-0.6.0.tgz#564b52152842c37652813115ac8054d3e75b4705"
+  integrity sha512-W2dGPNmK274AmL8Ibzr96luh24jr3u2MfAmAJTpnhAZwxkRws5MKgCxfxBBPvpRUc2GpGGIGanhTYXoHV6DcBw==
+  dependencies:
+    focus-options-polyfill "^1.6.0"
 
 svelte-preprocess@^4.0.0, svelte-preprocess@^4.10.7:
   version "4.10.7"

@@ -4,8 +4,9 @@
 
 <!-- MARKUP -->
 <div class="brand">
-  <a href="/" class="fancy">
-    Whitley Wedding
+  <a href="/">
+    <!-- Whitley Wedding -->
+    A<span>+</span>K
   </a>
 </div>
 
@@ -15,6 +16,12 @@
     align-self: center;
     font-size: clamp(1.4rem, 8vw, 2rem);
     line-height: 0;
+  }
+
+  span {
+    font-size: 0.9em;
+    position: relative;
+    top: -0.02em;
   }
 
   a {
