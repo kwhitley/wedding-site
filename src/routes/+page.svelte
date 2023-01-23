@@ -21,6 +21,7 @@
   </section>
 
   <section class="details">
+    <h2>Ceremony</h2>
     Saturday, September 16th, 2023<br />
     6:00 p.m.<br />
 
@@ -44,7 +45,7 @@
     margin-top: 2rem;
     display: flex;
     flex-flow: column;
-    gap: 3.5rem;
+    gap: 3rem;
     align-items: center;
     text-align: center;
   }
