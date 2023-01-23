@@ -64,6 +64,6 @@
   }
 
   .page {
-    padding: 1rem 0 3rem;
+    padding: 0 0 3rem;
   }
 </style>
