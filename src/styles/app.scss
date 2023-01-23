@@ -74,6 +74,7 @@
 @font-face {
   font-family: fancy;
   src: url('/mrs-saint-delafield.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-display: swap;
 }
 
 * {
