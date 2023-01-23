@@ -63,10 +63,15 @@ If you want to hang out downtown, you have a lot of options! The Astros will be 
   iframe {
     --crop-top: -4rem;
     width: 100%;
-    aspect-ratio: 3/2;
+    height: 40rem;
     border: none;
     position: relative;
     top: var(--crop-top);
     margin-bottom: var(--crop-top);
+
+    @media screen and (max-width: 600px) {
+      height: auto;
+      aspect-ratio: 1/1.3;
+    }
   }
 </style>
