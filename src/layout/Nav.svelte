@@ -43,7 +43,7 @@
     flex-flow: row;
     justify-content: space-between;
     align-items: center;
-    column-gap: 1em;
+    column-gap: 2em;
     row-gap: 1em;
 
     &.constrained {

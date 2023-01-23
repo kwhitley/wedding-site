@@ -14,7 +14,7 @@
 <style lang="scss">
   .brand {
     align-self: center;
-    font-size: clamp(1.4rem, 8vw, 2rem);
+    font-size: clamp(2rem, 8vw, 2.3rem);
     line-height: 0;
   }
 
