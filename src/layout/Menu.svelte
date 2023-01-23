@@ -33,15 +33,12 @@
     flex-flow: row wrap;
     justify-content: flex-end;
 
-    &.horizontal {
-      // flex-flow: row wrap;
-      row-gap: 0.8em;
-    }
-
     @media screen and (max-width: 400px) {
       flex-flow: column;
       align-items: flex-end;
       padding: 1rem 0;
+      row-gap: 1.1rem;
+      font-size: 1.1rem;
     }
   }
 
