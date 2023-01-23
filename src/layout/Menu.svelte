@@ -1,7 +1,4 @@
 <script>
-  import { slide } from 'svelte/transition'
-  import { headerIsOpen } from '~/stores'
-
   export let horizontal = true
   export let open = false
 </script>
@@ -9,7 +6,7 @@
 
 <section>
   {#if open}
-    <nav transition:slide={{ duration: 200 }} class:horizontal>
+    <nav class:horizontal>
       <slot />
     </nav>
   {/if}
@@ -41,7 +38,7 @@
       row-gap: 0.8em;
     }
 
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 400px) {
       flex-flow: column;
       align-items: flex-end;
       padding: 1rem 0;

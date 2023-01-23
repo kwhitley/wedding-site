@@ -197,9 +197,9 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: clamp(2.5em, 17vmin, 5em);
+  letter-spacing: 0;
+  font-size: clamp(2.5rem, 10vw, 6rem);
   line-height: 0.8em;
-  letter-spacing: -0.06em;
   font-weight: 400;
 }
 

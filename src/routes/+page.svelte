@@ -1,5 +1,6 @@
 <script>
   import { pageTitle } from '~/utils/pageTitle'
+  import { fade } from 'svelte/transition'
 </script>
 
 <!-- HEAD -->
@@ -10,24 +11,25 @@
 
 <!-- MARKUP -->
 <main class="splash">
-  <section>
+  <section in:fade={{ duration: 500, delay: 100 }}>
     <strong>the wedding of</strong>
 
     <h1>
-      Aimee Housinger
+      Aimee Housinger<br />
       Kevin Whitley
     </h1>
   </section>
 
-  <section>
+  <section class="details">
     <h2>Ceremony</h2>
-    Saturday, September 16, 2023
-    6:00 p.m.
+    Saturday, September 16, 2023<br />
+    6:00 p.m.<br />
 
-    <a href="https://www.astorianevents.com/">The Astorian</a>
-    2500 Summer Street
-    Houston, Texas 77007
+    <br />
 
+    <a href="https://www.astorianevents.com/">The Astorian</a><br />
+    2500 Summer Street<br />
+    Houston, Texas 77007<br />
   </section>
 
   <hr />
@@ -35,9 +37,6 @@
   <section>
     Reception to follow
   </section>
-
-
-
 </main>
 
 <!-- STYLES -->
@@ -48,13 +47,7 @@
     flex-flow: column;
     gap: 2rem;
     align-items: center;
-    justify-content: center;
-    // min-height: 60vh;
     text-align: center;
-  }
-
-  section {
-    white-space: pre-line;
   }
 
   strong {
@@ -63,9 +56,7 @@
 
   h1 {
     text-align: center;
-    letter-spacing: 0;
     position: relative;
-    font-size: clamp(2.5rem, 10vw, 6rem);
 
     &:before {
       content: '&';
@@ -76,11 +67,5 @@
       top: 50%;
       color: var(--foreground-25);
     }
-  }
-
-  small {
-    font-size: 0.4em;
-    display: block;
-    margin-bottom: -2.2em;
   }
 </style>

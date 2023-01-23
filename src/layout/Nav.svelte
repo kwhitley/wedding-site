@@ -1,8 +1,6 @@
 <script>
-  import { headerIsOpen } from '~/stores'
   import Brand from './Brand.svelte'
   import Menu from './Menu.svelte'
-  import MenuIcon from './MenuIcon.svelte'
 
   export let sticky = false
   export let constrained = false
@@ -10,9 +8,6 @@
   export let collapsible = false
   export let horizontal = false
   export let brand = true
-
-  $: showMenu = $headerIsOpen || !collapsible
-  $: showIcon = collapsible && $$slots.default
 </script>
 
 <!-- MARKUP -->
@@ -23,11 +18,7 @@
     {/if}
 
     <div class="menu" class:open={true}>
-      {#if showIcon}
-        <MenuIcon bind:open={$headerIsOpen} />
-      {/if}
-
-      <Menu horizontal={horizontal} open={showMenu}>
+      <Menu horizontal={horizontal} open={true}>
         <slot />
       </Menu>
     </div>
@@ -49,7 +40,7 @@
   section {
     flex: 1;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row;
     justify-content: space-between;
     align-items: center;
     column-gap: 1em;
@@ -58,10 +49,19 @@
     &.constrained {
       max-width: var(--max-page-width);
     }
+
+    @media screen and (max-width: 300px) {
+      flex-flow: column;
+      align-items: flex-end;
+      padding-top: 2rem;
+
+      :global(.brand) {
+        font-size: 2.5rem;
+      }
+    }
   }
 
   div.menu {
-    flex: 1;
     min-height: 3em;
     display: flex;
     align-items: center;
