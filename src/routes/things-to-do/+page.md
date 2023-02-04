@@ -11,7 +11,10 @@
 <!-- ![https://ity.sh/xv6](https://ity.sh/xv6.QR) -->
 
 <section class="crop">
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19LaJVuDmwb43dzbbtuGFJCsqy2tQvQo&ehbc=2E312F"></iframe>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19LaJVuDmwb43dzbbtuGFJCsqy2tQvQo&ehbc=2E312F">
+    bar
+  </iframe>
+  <div class="loading">loading map...</div>
 </section>
 
 ## Museums
@@ -45,9 +48,17 @@ We only have about a million breweries around town. If you’re a lover of craft
 If you want to hang out downtown, you have a lot of options! The Astros will be in Kansas City beating up on the Royals that weekend, but you can definitely snag a seat at [McIntyre’s Downtown](https://goo.gl/maps/bq6ruAjLQqVMENyVA) or [Biggio’s](https://goo.gl/maps/jJ1LLXp9Pv14HFiF7) to watch some Sportsball. If you’re not into sports, there’s always something going on at [Discovery Green](https://goo.gl/maps/nd9pY2729Jo1KBbW8), and the [Aquarium](https://goo.gl/maps/N6EtVdCcPGax5Dfq9) is quite nice (and indoors/out of the heat). While we have never done one, the Segway Tours apparently get fantastic reviews and take you by some of our really awesome street art. There are also bars all up and down Main Street – our favorites are Angel Share and Capt. Foxheart’s Bad News Bar and Spirit Lounge.
 
 <style lang="scss">
+  :root {
+    --map-border: 2px solid var(--foreground-color);
+  }
   .crop {
     overflow: hidden;
     position: relative;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    border-top: var(--map-border);
 
     &:after {
       content: '';
@@ -55,23 +66,32 @@ If you want to hang out downtown, you have a lot of options! The Astros will be 
       bottom: 0;
       left: 0;
       right: 0;
-      height: 1.3rem;
+      height: 1rem;
       background-color: var(--background-color);
+      border-top: var(--map-border);
     }
   }
 
   iframe {
-    --crop-top: -4rem;
+    --crop-top: -4.5rem;
     width: 100%;
     height: 40rem;
     border: none;
     position: relative;
     top: var(--crop-top);
     margin-bottom: var(--crop-top);
+    background-color: var(--foreground-5);
+    border: var(--map-border);
 
     @media screen and (max-width: 600px) {
       height: auto;
       aspect-ratio: 1/1.3;
     }
+  }
+
+  .loading {
+    position: absolute;
+    opacity: 0.4;
+    z-index: -1;
   }
 </style>
