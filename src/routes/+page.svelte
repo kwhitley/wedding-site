@@ -22,8 +22,6 @@
   </section>
 
   <section class="details">
-    <Margarita color={`var(--foreground-25)`} />
-
     <h2>Ceremony</h2>
     Saturday, September 16th, 2023<br />
     6:00 p.m.<br />
