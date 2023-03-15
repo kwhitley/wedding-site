@@ -21,7 +21,7 @@ Please try to arrive at the venue no later than 5:45 p.m. so that everyone has t
 We eat a diet Aimee likes to refer to as “pollo-pescatarian” (_i.e._, poultry and seafood). Therefore, we will be serving items that fit within that description. If you have any further dietary restrictions, please let us know.
  
 ## Photos
-We ask that you kindly refrain from taking photos during our ceremony, but you are more than welcome to take photos during our reception! If you get anything good (e.g., pictures of Kevin and Aimee looking fabulous, or equally important, photos we can use to blackmail our friends and family later), please share them with us after!
+We ask that you kindly refrain from taking photos during our ceremony, but you are more than welcome to take photos during our reception! If you get anything good (_e.g._, pictures of Kevin and Aimee looking fabulous, or equally important, photos we can use to blackmail our friends and family later), please share them with us after!
  
 ## Please, No Gifts!
 Your presence and well wishes are the best gifts for which we could ask!
