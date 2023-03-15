@@ -31,7 +31,7 @@ $ ### per night
 HOW TO BOOK: COMING SOON -->
 Coming soon...
 
-<-- There are also plenty of Airbnb/VRBO options available around town. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations. -->
+<!-- There are also plenty of Airbnb/VRBO options available around town. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations. -->
 
 ## Day-of Event Parking
 There will be complimentary valet available at our venue. However, if you intend to consume alcohol, we urge you to please consider using Uber or Lyft, both of which are plentiful in Houston.
