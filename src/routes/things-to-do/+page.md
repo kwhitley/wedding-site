@@ -28,7 +28,7 @@ Please bring sun protection and drink plenty of water!
 ## Restaurants
 Houston has a fantastic food scene, and we had trouble narrowing this list down to only a few of our favorite spots. Hopefully you’ll have some time to check out one or two of them!
  
-Our first recommendation has to be [El Tiempo Cantina](https://goo.gl/maps/VcGu5A1dKq3frJMz6) on Washington. This is where it all began – it’s the place we met, and the place we still visit (at least) once per week. Go for the mango margaritas, trust us!
+Our first recommendation has to be [El Tiempo Cantina](https://goo.gl/maps/VcGu5A1dKq3frJMz6) on Washington. This is the place we met, and the place we still visit (at least) once per week. Go for the mango margaritas, trust us!
  
 If you want something other than Tex-Mex, we have you covered for pizza ([The Gypsy Poet](https://goo.gl/maps/afeTaZ9yZCqwkkSL8), [Bollo Woodfired Pizza](https://goo.gl/maps/Firt4jQxg76h7tfn8), or [Coltivare](https://goo.gl/maps/TDpzv4KXUvB1v9QG6)), BBQ ([Truth Barbeque](https://goo.gl/maps/YNp4LoRPeV35Zbgm8)), sushi ([KA Sushi](https://goo.gl/maps/5ijA6nkNXzkQXn6s6)), handrolls ([Handies Douzo](https://goo.gl/maps/cMZhq8nybgLH4P9a8)), seafood ([Loch Bar](https://goo.gl/maps/PdEL1REGGKgfyURm6)), and American fare ([Grace’s](https://goo.gl/maps/p5EmWVdh8fojuyeF7)).
  
