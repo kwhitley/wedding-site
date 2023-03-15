@@ -11,7 +11,7 @@
 ## Dress Code
 Black tie optional; dancing shoes preferred!
  
-## Adults Only Please
+## Adults Only, Please
 While we love your kiddos, this celebration is for for our adult friends only. If you need recommendations for childcare in the area, please let us know.
  
 ## Arrival Time
