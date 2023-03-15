@@ -28,10 +28,11 @@ Houston, Texas 77007
 832.516.6635  
 Check in Friday, September 15; check out Sunday, September 17
 $ ### per night  
-HOW TO BOOK: COMING SOON -->
+HOW TO BOOK: COMING SOON 
+There are also plenty of Airbnb/VRBO options available around town. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations.-->
 Coming soon...
 
-<!-- There are also plenty of Airbnb/VRBO options available around town. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations. -->
+ 
 
 ## Day-of Event Parking
 There will be complimentary valet available at our venue. However, if you intend to consume alcohol, we urge you to please consider using Uber or Lyft, both of which are plentiful in Houston.
