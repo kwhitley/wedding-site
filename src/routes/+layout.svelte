@@ -2,6 +2,7 @@
   import { navlink } from 'svelte-navlink-action'
   import { fly } from 'svelte/transition'
   import Nav from '~/layout/Nav.svelte'
+  import EditLink from '~/components/EditLink.svelte'
   import '~/styles/app.scss'
 
   // DEFINES IF THE PAGE IS WIDTH-CONSTRAINED
@@ -26,6 +27,7 @@
   </Nav>
 
   <section class="page-container" class:constrained>
+    <EditLink />
     {#key data.pathname}
       <div
         class="page"
@@ -55,6 +57,7 @@
       width: 100%;
       justify-content: center;
       padding: 3rem var(--page-inset);
+      position: relative;
     }
 
     .page {
