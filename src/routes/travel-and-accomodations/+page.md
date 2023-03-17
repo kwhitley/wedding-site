@@ -15,7 +15,7 @@ Southwest is the primary airline that flies into Hobby, but you can also catch F
 
 ## Hotels
 
-# For the Marriott folks:
+For the Marriott folks:
 
 ### [JW Marriott Downtown](https://www.marriott.com/en-us/hotels/houdj-jw-marriott-houston-downtown/overview/)
 806 Main Street  
@@ -35,7 +35,7 @@ HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi
 
 Please as soon as you can, but no later than August 18, 2023.  
 
-# For the Hilton folks:
+For the Hilton folks:
 
 ### [Embassy Suites by Hilton Houston Downtown](https://www.hilton.com/en/hotels/houdnes-embassy-suites-houston-downtown/)  
 1515 Dallas Street  
