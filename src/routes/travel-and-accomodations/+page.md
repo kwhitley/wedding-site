@@ -26,27 +26,27 @@ HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi
 
 Please as soon as you can, but no later than August 1, 2023.
 
-### [Magnolia Hotel](https://www.marriott.com/en-us/hotels/houmg-magnolia-hotel-houston-a-tribute-portfolio-hotel/overview/)
-1100 Texas Avenue 
-Houston, Texas 77002
-713.221.0011
-$175 per night
-HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1677007028502&key=GRP) or by calling and requesting a room in the Housinger & Whitley Wedding block.
+### [Magnolia Hotel](https://www.marriott.com/en-us/hotels/houmg-magnolia-hotel-houston-a-tribute-portfolio-hotel/overview/)  
+1100 Texas Avenue   
+Houston, Texas 77002  
+713.221.0011  
+$175 per night  
+HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1677007028502&key=GRP) or by calling and requesting a room in the Housinger & Whitley Wedding block.  
 
-Please as soon as you can, but no later than August 18, 2023. 
+Please as soon as you can, but no later than August 18, 2023.  
 
 # For the Hilton folks:
 
-### [Embassy Suites by Hilton Houston Downtown](https://www.hilton.com/en/hotels/houdnes-embassy-suites-houston-downtown/)
-1515 Dallas Street
-Houston, TX 77010
-713.739.9100
-$219 per night
-HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/) or by calling and requesting a room using group code "WWB."
+### [Embassy Suites by Hilton Houston Downtown](https://www.hilton.com/en/hotels/houdnes-embassy-suites-houston-downtown/)  
+1515 Dallas Street  
+Houston, TX 77010  
+713.739.9100  
+$219 per night  
+HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/) or by calling and requesting a room using group code "WWB."  
 
-Please as soon as you can, but no later than August 29, 2023. 
+Please as soon as you can, but no later than August 29, 2023.  
 
-There are also plenty of Airbnb/VRBO options available around town, as well as other fun hotel options. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations.
+There are also plenty of Airbnb/VRBO options available around town, as well as other fun hotel options. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations.  
  
 ## Day-of Event Parking
 There will be complimentary valet available at our venue. However, if you intend to consume alcohol, we urge you to please consider using Uber or Lyft, both of which are plentiful in Houston.
