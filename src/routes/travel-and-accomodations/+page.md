@@ -46,7 +46,7 @@ HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-even
 
 Please book as soon as you can, but no later than August 29, 2023.  
 
-There are also plenty of Airbnb/VRBO options available around town, as well as other fun hotel options. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations.  
+There are also plenty of Airbnb/VRBO options available around town, as well as other fun hotel options. If you need help picking out a neighborhood that fits your vibe, we are happy to give you some recommendations.  
  
 ## Day-of Event Parking
 There will be complimentary valet available at our venue. However, if you intend to consume alcohol, we urge you to please consider using Uber or Lyft, both of which are plentiful in Houston.
