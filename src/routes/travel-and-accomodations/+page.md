@@ -39,7 +39,7 @@ For the Hilton folks:
 
 ### [Embassy Suites by Hilton Houston Downtown](https://www.hilton.com/en/hotels/houdnes-embassy-suites-houston-downtown/)  
 1515 Dallas Street  
-Houston, TX 77010  
+Houston, Texas 77010  
 713.739.9100  
 $219 per night  
 HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/) or by calling and requesting a room using group code "WWB."  
