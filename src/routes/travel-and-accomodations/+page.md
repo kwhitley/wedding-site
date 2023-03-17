@@ -24,7 +24,7 @@ Houston, Texas 77002
 $259 per night  
 HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1675203407578&key=GRP) or by calling and requesting a room in the Whitley & Housinger September 2023 block. 
 
-Please as soon as you can, but no later than August 1, 2023.
+Please book as soon as you can, but no later than August 1, 2023.
 
 ### [Magnolia Hotel](https://www.marriott.com/en-us/hotels/houmg-magnolia-hotel-houston-a-tribute-portfolio-hotel/overview/)  
 1100 Texas Avenue   
@@ -33,7 +33,7 @@ Houston, Texas 77002
 $175 per night  
 HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1677007028502&key=GRP) or by calling and requesting a room in the Housinger & Whitley Wedding block.  
 
-Please as soon as you can, but no later than August 18, 2023.  
+Please book as soon as you can, but no later than August 18, 2023.  
 
 For the Hilton folks:
 
@@ -44,7 +44,7 @@ Houston, TX 77010
 $219 per night  
 HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/) or by calling and requesting a room using group code "WWB."  
 
-Please as soon as you can, but no later than August 29, 2023.  
+Please book as soon as you can, but no later than August 29, 2023.  
 
 There are also plenty of Airbnb/VRBO options available around town, as well as other fun hotel options. If you need help pickout out a neighborhood that fits your vibe, we are happy to give you some recommendations.  
  
