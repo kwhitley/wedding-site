@@ -8,7 +8,7 @@
   <meta name="description" content="Everything our out-of-town friends will need to best enjoy their Houston stay!" />
 </svelte:head>
 
-## Flying in to Houston
+## Flying to Houston
 There are two airports in the Houston area, [George Bush Intercontinental (IAH)](https://goo.gl/maps/gJmsofuFmtiLf3fQ6) and [William P. Hobby (HOU)](https://goo.gl/maps/ZENw2R4jjR2qCada8). IAH is approximately 30-35 minutes from downtown Houston (where we have reserved the blocks of hotel rooms listed below), and Hobby is approximately 20-25 minutes from downtown.
  
 Southwest is the primary airline that flies into Hobby, but you can also catch Frontier or the occasional American Airlines or Delta flight. Almost all major airlines fly into IAH.
