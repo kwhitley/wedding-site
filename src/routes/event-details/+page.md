@@ -12,7 +12,7 @@
 Black tie optional; dancing shoes preferred!
  
 ## Adults Only, Please
-While we love your kiddos, this celebration is for for our adult friends only. If you need recommendations for childcare in the area, please let us know.
+While we love your kiddos, this celebration is for our adult friends only. If you need recommendations for childcare in the area, please let us know.
  
 ## Arrival Time
 Please try to arrive at the venue no later than 5:45 p.m. so that everyone has time to get seated before the ceremony begins.
