@@ -47,6 +47,7 @@ HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-even
 Please book as soon as you can, but no later than August 29, 2023.  
 
 **Airbnb and VRBO**
+
 There are also plenty of [Airbnb](https://www.airbnb.com/s/Houston--Texas--United-States/homes?flexible_trip_lengths%5B%5D=one_week&query=Houston%2C%20TX&place_id=ChIJAYWNSLS4QIYROwVl894CDco&refinement_paths%5B%5D=%2Fhomes&tab_id=home_tab&date_picker_type=calendar&checkin=2023-09-15&checkout=2023-09-17&source=structured_search_input_header&search_type=autocomplete_click) or [VRBO](https://www.vrbo.com/search/keywords:houston-texas-united-states-of-america/arrival:2023-09-15/departure:2023-09-17?petIncluded=false&filterByTotalPrice=true) options available around town, as well as other fun hotel options. If you need help picking out a neighborhood that fits your vibe, we are happy to give you some recommendations.  
  
 ## Day-of Event Parking
