@@ -29,7 +29,7 @@
     <br />
 
     <a href="https://www.astorianevents.com/">The Astorian</a><br />
-    2500 Summer Street<br />
+    2500 Summer Street<br /> 
     Houston, Texas 77007<br />
   </section>
 
