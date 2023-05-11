@@ -15,7 +15,7 @@ Black tie optional; dancing shoes preferred!
 While we love your kiddos, this celebration is for our adult friends only. If you need recommendations for childcare in the area, please let us know.
  
 ## Arrival Time
-Please try to arrive at the venue no later than 5:45 p.m. so that everyone has time to get seated before the ceremony begins.
+Please try to arrive at the venue no later than 6:15 p.m. so that everyone has time to get seated before the ceremony begins.
  
 ## Dietary Restrictions
 We eat a diet Aimee refers to as “pollo-pescatarian” (_i.e._, poultry and seafood). Therefore, we will be serving items that fit within that description. If you have any further dietary restrictions, please let us know.
