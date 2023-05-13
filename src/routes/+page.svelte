@@ -57,7 +57,7 @@
   h1 {
     text-align: center;
     position: relative;
-    z-index: -1:
+    z-index: -1;
 
     &:before {
       content: '&';
