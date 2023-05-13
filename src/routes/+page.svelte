@@ -1,7 +1,6 @@
 <script>
   import { pageTitle } from '~/utils/pageTitle'
   import { fade } from 'svelte/transition'
-	import Margarita from '~/components/icons/Margarita.svelte'
 </script>
 
 <!-- HEAD -->
@@ -58,6 +57,7 @@
   h1 {
     text-align: center;
     position: relative;
+    z-index: -1:
 
     &:before {
       content: '&';
