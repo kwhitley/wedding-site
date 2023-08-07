@@ -1,6 +1,6 @@
 <script>
   import { navlink } from 'svelte-navlink-action'
-  import { fly } from 'svelte/transition'
+  import { fade } from 'svelte/transition'
   import Nav from '~/layout/Nav.svelte'
   import EditLink from '~/components/EditLink.svelte'
   import '~/styles/app.scss'
@@ -31,8 +31,7 @@
     {#key data.pathname}
       <div
         class="page"
-        in:fly={{ x: 100, duration: 200, delay: 110 }}
-        out:fly={{ x: -100, duration: 100 }}
+        in:fade={{ duration: 500 }}
         >
         <slot />
       </div>
