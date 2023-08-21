@@ -21,19 +21,19 @@ Southwest is the primary airline that flies into Hobby, but you can also catch F
 806 Main Street  
 Houston, Texas 77002  
 713.237.1111  
-$259 per night  
-HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1675203407578&key=GRP) or by calling and requesting a room in the Whitley & Housinger September 2023 block. 
+ 
+HOW TO BOOK: You may book online [here](https://www.marriott.com/en-us/hotels/houdj-jw-marriott-houston-downtown/overview/) or by calling and requesting a room. 
 
-Please book as soon as you can, but no later than August 1, 2023.
+The deadline to book in our wedding block has passed, but there are still rooms available at the hotel!  
 
 ### [Magnolia Hotel](https://www.marriott.com/en-us/hotels/houmg-magnolia-hotel-houston-a-tribute-portfolio-hotel/overview/)  
 1100 Texas Avenue   
 Houston, Texas 77002  
 713.221.0011  
-$175 per night  
-HOW TO BOOK: You may book online [here](https://www.marriott.com/events/start.mi?id=1677007028502&key=GRP) or by calling and requesting a room in the Housinger & Whitley Wedding block.  
 
-Please book as soon as you can, but no later than August 18, 2023.  
+HOW TO BOOK: You may book online [here](https://www.magnoliahotels.com/houston/) or by calling and requesting a room.  
+
+The deadline to book in our wedding block has passed, but there are still rooms available at the hotel!  
 
 **For the Hilton folks:
 **
