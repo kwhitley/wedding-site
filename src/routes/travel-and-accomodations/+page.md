@@ -23,7 +23,7 @@ Houston, Texas 77002
 713.237.1111  
 HOW TO BOOK: You may book online [here](https://www.marriott.com/en-us/hotels/houdj-jw-marriott-houston-downtown/overview/) or by calling and requesting a room. 
 
-The deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
+The hotel's deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
 
 ### [Magnolia Hotel](https://www.marriott.com/en-us/hotels/houmg-magnolia-hotel-houston-a-tribute-portfolio-hotel/overview/)  
 1100 Texas Avenue   
@@ -31,7 +31,7 @@ Houston, Texas 77002
 713.221.0011  
 HOW TO BOOK: You may book online [here](https://www.magnoliahotels.com/houston/) or by calling and requesting a room.  
 
-The deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
+The hotel's deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
 
 **For the Hilton folks:
 **
