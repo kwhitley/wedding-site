@@ -21,7 +21,6 @@ Southwest is the primary airline that flies into Hobby, but you can also catch F
 806 Main Street  
 Houston, Texas 77002  
 713.237.1111  
- 
 HOW TO BOOK: You may book online [here](https://www.marriott.com/en-us/hotels/houdj-jw-marriott-houston-downtown/overview/) or by calling and requesting a room. 
 
 The deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
@@ -30,7 +29,6 @@ The deadline to book our wedding block has passed, but there are still rooms ava
 1100 Texas Avenue   
 Houston, Texas 77002  
 713.221.0011  
-
 HOW TO BOOK: You may book online [here](https://www.magnoliahotels.com/houston/) or by calling and requesting a room.  
 
 The deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
