@@ -39,10 +39,9 @@ The hotel's deadline to book our wedding block has passed, but there are still r
 1515 Dallas Street  
 Houston, Texas 77010  
 713.739.9100  
-$219 per night  
-HOW TO BOOK: You may book online [here](https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/) or by calling and requesting a room using group code "WWB."  
+HOW TO BOOK: You may book online [here]([https://www.hilton.com/en/attend-my-event/thewhitleywedding2023/](https://www.hilton.com/en/hotels/houdnes-embassy-suites-houston-downtown/)) or by calling and requesting a room.  
 
-Please book as soon as you can, but no later than August 29, 2023.  
+The hotel's deadline to book our wedding block has passed, but there are still rooms available at the hotel!  
 
 **Airbnb and VRBO**
 
